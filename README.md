@@ -4,13 +4,13 @@
 
 **Principales**
 
- - Apreciar el funcionamiento de las corrientes alternas..
+ - Experimentar las propiedades de una teoría de circuitos a la practica.
 
 **Específicos**
 
-- Aprender el uso del oscilometro.
-- Reconocer el funcionamiento de los controles del oscilometro.
-- Reconocer las lecturas 
+- Explicar la teroia que aparece en la teoría de circuitos
+- Verificar si se tiene una escala menor de error con lo teorico y practico.
+- Calcular la corriente exacta de un circuito
 
 ### 2.	MARCO TEÓRICO 
 
@@ -81,9 +81,9 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-- Utilizar una licencia creativa gratuita que dan por q5 dias 
-- Crera un usaurio
-- Tener unas preconfiguracones de que el emulador nos guardo el proyecto avnzado
+ 
+- Crear un usaurio en tinkercad
+- Tener listo la opcion de diagrama de circuito
  
 ### 7.	APORTACIONES
 
