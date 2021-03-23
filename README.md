@@ -74,6 +74,10 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/11.png)
 
+#### Error
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/12.png)
+
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
@@ -100,5 +104,3 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 
 ### 10.	 ANEXOS
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-6/blob/main/Fotos/4.png)
