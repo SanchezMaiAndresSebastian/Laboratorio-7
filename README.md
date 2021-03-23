@@ -37,7 +37,7 @@
 
  
 > (Herramientas utilizadas en simulación) 
-> Simulador dcalab
+> Simulador Tinkercad
 
 
 ### 5.	EXPLICACIÓN
@@ -67,6 +67,12 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/8.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/9.png)
+
+#### Tablas 
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/10.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/11.png)
 
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
