@@ -104,3 +104,6 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 
 ### 10.	 ANEXOS
+
+https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Anexos/calculos%20lab%207.pdf
+
