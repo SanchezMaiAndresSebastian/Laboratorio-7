@@ -8,9 +8,9 @@
 
 **Específicos**
 
-- Explicar la teroia que aparece en la teoría de circuitos
+- Explicar la teoría de circuitos
 - Verificar si se tiene una escala menor de error con lo teorico y practico.
-- Calcular la corriente exacta de un circuito
+- Calcular la corriente exacta de un circuito por el metodo de thevenin.
 
 ### 2.	MARCO TEÓRICO 
 
@@ -87,16 +87,16 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
  
 ### 7.	APORTACIONES
 
- - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
+ - Cambia la corriente de una malla al agregar o quitar resstencias
  - No es lo mismo la medición de voltaje con corriente 
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
- - LLa fuente de corriente directa mide cuantos amperios tiene el circuito.
+ - La fuente de corriente directa mide cuantos amperios tiene el circuito.
  
 ### 8.	CONCLUSIONES
- - No es la misma señal cuando se mide en el multimetro digital, es decir no es un valor aproximado real
- - Las ondas sinusuidales sirven en cualquier otra materia debido a que siempre están presnets de anera no relacioanda como es el en la biologa
- - Un multimetro digital te la magnitud en dicha fucnión del tiempo
- - 
+
+ - La teoria de thevenin si se aplica en las propiedades de su uso en la vida real
+ - Al tener especificado en la teroía los resultados, sis se tiene un resultado con un menor error, pero eso no se reflejaria en la vida real, debido a que no existe circuitos perefctos a temperatura ambiente.
+ - La teroia de thevenin si es correcta al poder simlifcar los caculosn y con ello que se pueda ahorrar mas materiales en un caso de que se construya un circuito.
 
 ### 9.	BIBLIOGRAFÍA
 
